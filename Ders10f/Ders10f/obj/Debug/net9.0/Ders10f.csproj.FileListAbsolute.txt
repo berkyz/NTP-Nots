@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\NTP\Ders10f\Ders10f\bin\Debug\net9.0\Ders10f.exe
+C:\Users\lenovo\source\repos\NTP\Ders10f\Ders10f\bin\Debug\net9.0\Ders10f.deps.json
+C:\Users\lenovo\source\repos\NTP\Ders10f\Ders10f\bin\Debug\net9.0\Ders10f.runtimeconfig.json
+C:\Users\lenovo\source\repos\NTP\Ders10f\Ders10f\bin\Debug\net9.0\Ders10f.dll
+C:\Users\lenovo\source\repos\NTP\Ders10f\Ders10f\bin\Debug\net9.0\Ders10f.pdb
+C:\Users\lenovo\source\repos\NTP\Ders10f\Ders10f\obj\Debug\net9.0\Ders10f.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\NTP\Ders10f\Ders10f\obj\Debug\net9.0\Ders10f.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\NTP\Ders10f\Ders10f\obj\Debug\net9.0\Ders10f.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\NTP\Ders10f\Ders10f\obj\Debug\net9.0\Ders10f.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\NTP\Ders10f\Ders10f\obj\Debug\net9.0\Ders10f.dll
+C:\Users\lenovo\source\repos\NTP\Ders10f\Ders10f\obj\Debug\net9.0\refint\Ders10f.dll
+C:\Users\lenovo\source\repos\NTP\Ders10f\Ders10f\obj\Debug\net9.0\Ders10f.pdb
+C:\Users\lenovo\source\repos\NTP\Ders10f\Ders10f\obj\Debug\net9.0\Ders10f.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\NTP\Ders10f\Ders10f\obj\Debug\net9.0\ref\Ders10f.dll

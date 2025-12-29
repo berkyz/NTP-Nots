@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2p2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFC43BB-375D-43D0-8FBC-BFF1E3C95D63}|ntp2p2\\ntp2p2.csproj|c:\\users\\lenovo\\source\\repos\\ntp\\ntp2p2\\ntp2p2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFC43BB-375D-43D0-8FBC-BFF1E3C95D63}|ntp2p2\\ntp2p2.csproj|solutionrelative:ntp2p2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2p2\\ntp2p2\\Program.cs",
+              "RelativeDocumentMoniker": "ntp2p2\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2p2\\ntp2p2\\Program.cs",
+              "RelativeToolTip": "ntp2p2\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwB4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T12:44:22.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2h\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{712E2FA3-4F15-438C-9AA9-D044DF3348B2}|ntp2h\\ntp2h.csproj|c:\\users\\lenovo\\source\\repos\\ntp\\ntp2h\\ntp2h\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712E2FA3-4F15-438C-9AA9-D044DF3348B2}|ntp2h\\ntp2h.csproj|solutionrelative:ntp2h\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712E2FA3-4F15-438C-9AA9-D044DF3348B2}|ntp2h\\ntp2h.csproj|c:\\users\\lenovo\\source\\repos\\ntp\\ntp2h\\ntp2h\\model\\isekil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712E2FA3-4F15-438C-9AA9-D044DF3348B2}|ntp2h\\ntp2h.csproj|solutionrelative:ntp2h\\model\\isekil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712E2FA3-4F15-438C-9AA9-D044DF3348B2}|ntp2h\\ntp2h.csproj|c:\\users\\lenovo\\source\\repos\\ntp\\ntp2h\\ntp2h\\model\\daire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712E2FA3-4F15-438C-9AA9-D044DF3348B2}|ntp2h\\ntp2h.csproj|solutionrelative:ntp2h\\model\\daire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712E2FA3-4F15-438C-9AA9-D044DF3348B2}|ntp2h\\ntp2h.csproj|c:\\users\\lenovo\\source\\repos\\ntp\\ntp2h\\ntp2h\\model\\kare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712E2FA3-4F15-438C-9AA9-D044DF3348B2}|ntp2h\\ntp2h.csproj|solutionrelative:ntp2h\\model\\kare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712E2FA3-4F15-438C-9AA9-D044DF3348B2}|ntp2h\\ntp2h.csproj|c:\\users\\lenovo\\source\\repos\\ntp\\ntp2h\\ntp2h\\model\\ucgen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712E2FA3-4F15-438C-9AA9-D044DF3348B2}|ntp2h\\ntp2h.csproj|solutionrelative:ntp2h\\model\\ucgen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Daire.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2h\\ntp2h\\Model\\Daire.cs",
+              "RelativeDocumentMoniker": "ntp2h\\Model\\Daire.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2h\\ntp2h\\Model\\Daire.cs",
+              "RelativeToolTip": "ntp2h\\Model\\Daire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T08:36:05.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kare.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2h\\ntp2h\\Model\\Kare.cs",
+              "RelativeDocumentMoniker": "ntp2h\\Model\\Kare.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2h\\ntp2h\\Model\\Kare.cs",
+              "RelativeToolTip": "ntp2h\\Model\\Kare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T08:34:57.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ucgen.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2h\\ntp2h\\Model\\Ucgen.cs",
+              "RelativeDocumentMoniker": "ntp2h\\Model\\Ucgen.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2h\\ntp2h\\Model\\Ucgen.cs",
+              "RelativeToolTip": "ntp2h\\Model\\Ucgen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T08:30:52.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISekil.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2h\\ntp2h\\Model\\ISekil.cs",
+              "RelativeDocumentMoniker": "ntp2h\\Model\\ISekil.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2h\\ntp2h\\Model\\ISekil.cs",
+              "RelativeToolTip": "ntp2h\\Model\\ISekil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T08:29:25.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2h\\ntp2h\\Program.cs",
+              "RelativeDocumentMoniker": "ntp2h\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2h\\ntp2h\\Program.cs",
+              "RelativeToolTip": "ntp2h\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T08:28:56.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\NTP\ucgen\obj\Debug\net9.0\ucgen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\NTP\ucgen\obj\Debug\net9.0\ucgen.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\NTP\ucgen\obj\Debug\net9.0\ucgen.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\NTP\ucgen\obj\Debug\net9.0\ucgen.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\NTP\ucgen\bin\Debug\net9.0\ucgen.exe
+C:\Users\lenovo\source\repos\NTP\ucgen\bin\Debug\net9.0\ucgen.deps.json
+C:\Users\lenovo\source\repos\NTP\ucgen\bin\Debug\net9.0\ucgen.runtimeconfig.json
+C:\Users\lenovo\source\repos\NTP\ucgen\bin\Debug\net9.0\ucgen.dll
+C:\Users\lenovo\source\repos\NTP\ucgen\bin\Debug\net9.0\ucgen.pdb
+C:\Users\lenovo\source\repos\NTP\ucgen\obj\Debug\net9.0\ucgen.dll
+C:\Users\lenovo\source\repos\NTP\ucgen\obj\Debug\net9.0\refint\ucgen.dll
+C:\Users\lenovo\source\repos\NTP\ucgen\obj\Debug\net9.0\ucgen.pdb
+C:\Users\lenovo\source\repos\NTP\ucgen\obj\Debug\net9.0\ucgen.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\NTP\ucgen\obj\Debug\net9.0\ref\ucgen.dll

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2g\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E96892ED-750F-492F-BAD3-40F78B31227F}|ntp2g\\ntp2g.csproj|c:\\users\\lenovo\\source\\repos\\ntp\\ntp2g\\ntp2g\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96892ED-750F-492F-BAD3-40F78B31227F}|ntp2g\\ntp2g.csproj|solutionrelative:ntp2g\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96892ED-750F-492F-BAD3-40F78B31227F}|ntp2g\\ntp2g.csproj|c:\\users\\lenovo\\source\\repos\\ntp\\ntp2g\\ntp2g\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96892ED-750F-492F-BAD3-40F78B31227F}|ntp2g\\ntp2g.csproj|solutionrelative:ntp2g\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96892ED-750F-492F-BAD3-40F78B31227F}|ntp2g\\ntp2g.csproj|c:\\users\\lenovo\\source\\repos\\ntp\\ntp2g\\ntp2g\\daire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96892ED-750F-492F-BAD3-40F78B31227F}|ntp2g\\ntp2g.csproj|solutionrelative:ntp2g\\daire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96892ED-750F-492F-BAD3-40F78B31227F}|ntp2g\\ntp2g.csproj|c:\\users\\lenovo\\source\\repos\\ntp\\ntp2g\\ntp2g\\iouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96892ED-750F-492F-BAD3-40F78B31227F}|ntp2g\\ntp2g.csproj|solutionrelative:ntp2g\\iouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Daire.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2g\\ntp2g\\Daire.cs",
+              "RelativeDocumentMoniker": "ntp2g\\Daire.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2g\\ntp2g\\Daire.cs",
+              "RelativeToolTip": "ntp2g\\Daire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T07:45:08.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOuter.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2g\\ntp2g\\IOuter.cs",
+              "RelativeDocumentMoniker": "ntp2g\\IOuter.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2g\\ntp2g\\IOuter.cs",
+              "RelativeToolTip": "ntp2g\\IOuter.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T07:40:00.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2g\\ntp2g\\Ogrenci.cs",
+              "RelativeDocumentMoniker": "ntp2g\\Ogrenci.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2g\\ntp2g\\Ogrenci.cs",
+              "RelativeToolTip": "ntp2g\\Ogrenci.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T07:19:51.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2g\\ntp2g\\Program.cs",
+              "RelativeDocumentMoniker": "ntp2g\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2g\\ntp2g\\Program.cs",
+              "RelativeToolTip": "ntp2g\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T07:13:27.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

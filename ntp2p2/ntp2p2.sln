@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ntp2p2", "ntp2p2\ntp2p2.csproj", "{7CFC43BB-375D-43D0-8FBC-BFF1E3C95D63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CFC43BB-375D-43D0-8FBC-BFF1E3C95D63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CFC43BB-375D-43D0-8FBC-BFF1E3C95D63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CFC43BB-375D-43D0-8FBC-BFF1E3C95D63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CFC43BB-375D-43D0-8FBC-BFF1E3C95D63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A55C66C7-5D41-468A-A93D-35BE1906966D}
+	EndGlobalSection
+EndGlobal

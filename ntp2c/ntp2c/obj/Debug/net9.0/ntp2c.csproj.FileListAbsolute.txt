@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\NTP\ntp2c\ntp2c\bin\Debug\net9.0\ntp2c.exe
+C:\Users\lenovo\source\repos\NTP\ntp2c\ntp2c\bin\Debug\net9.0\ntp2c.deps.json
+C:\Users\lenovo\source\repos\NTP\ntp2c\ntp2c\bin\Debug\net9.0\ntp2c.runtimeconfig.json
+C:\Users\lenovo\source\repos\NTP\ntp2c\ntp2c\bin\Debug\net9.0\ntp2c.dll
+C:\Users\lenovo\source\repos\NTP\ntp2c\ntp2c\bin\Debug\net9.0\ntp2c.pdb
+C:\Users\lenovo\source\repos\NTP\ntp2c\ntp2c\obj\Debug\net9.0\ntp2c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\NTP\ntp2c\ntp2c\obj\Debug\net9.0\ntp2c.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\NTP\ntp2c\ntp2c\obj\Debug\net9.0\ntp2c.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\NTP\ntp2c\ntp2c\obj\Debug\net9.0\ntp2c.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\NTP\ntp2c\ntp2c\obj\Debug\net9.0\ntp2c.dll
+C:\Users\lenovo\source\repos\NTP\ntp2c\ntp2c\obj\Debug\net9.0\refint\ntp2c.dll
+C:\Users\lenovo\source\repos\NTP\ntp2c\ntp2c\obj\Debug\net9.0\ntp2c.pdb
+C:\Users\lenovo\source\repos\NTP\ntp2c\ntp2c\obj\Debug\net9.0\ntp2c.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\NTP\ntp2c\ntp2c\obj\Debug\net9.0\ref\ntp2c.dll

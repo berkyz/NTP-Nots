@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\NTP\Ders06\Ders06\bin\Debug\net9.0\Ders06.exe
+C:\Users\lenovo\source\repos\NTP\Ders06\Ders06\bin\Debug\net9.0\Ders06.deps.json
+C:\Users\lenovo\source\repos\NTP\Ders06\Ders06\bin\Debug\net9.0\Ders06.runtimeconfig.json
+C:\Users\lenovo\source\repos\NTP\Ders06\Ders06\bin\Debug\net9.0\Ders06.dll
+C:\Users\lenovo\source\repos\NTP\Ders06\Ders06\bin\Debug\net9.0\Ders06.pdb
+C:\Users\lenovo\source\repos\NTP\Ders06\Ders06\obj\Debug\net9.0\Ders06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\NTP\Ders06\Ders06\obj\Debug\net9.0\Ders06.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\NTP\Ders06\Ders06\obj\Debug\net9.0\Ders06.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\NTP\Ders06\Ders06\obj\Debug\net9.0\Ders06.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\NTP\Ders06\Ders06\obj\Debug\net9.0\Ders06.dll
+C:\Users\lenovo\source\repos\NTP\Ders06\Ders06\obj\Debug\net9.0\refint\Ders06.dll
+C:\Users\lenovo\source\repos\NTP\Ders06\Ders06\obj\Debug\net9.0\Ders06.pdb
+C:\Users\lenovo\source\repos\NTP\Ders06\Ders06\obj\Debug\net9.0\Ders06.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\NTP\Ders06\Ders06\obj\Debug\net9.0\ref\Ders06.dll

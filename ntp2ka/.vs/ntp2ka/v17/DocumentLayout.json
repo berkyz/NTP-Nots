@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2ka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9CA6FB-4F41-4A91-BB30-AE5628C026CD}|ntp2ka\\ntp2ka.csproj|c:\\users\\lenovo\\source\\repos\\ntp\\ntp2ka\\ntp2ka\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9CA6FB-4F41-4A91-BB30-AE5628C026CD}|ntp2ka\\ntp2ka.csproj|solutionrelative:ntp2ka\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9CA6FB-4F41-4A91-BB30-AE5628C026CD}|ntp2ka\\ntp2ka.csproj|c:\\users\\lenovo\\source\\repos\\ntp\\ntp2ka\\ntp2ka\\cihaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9CA6FB-4F41-4A91-BB30-AE5628C026CD}|ntp2ka\\ntp2ka.csproj|solutionrelative:ntp2ka\\cihaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9CA6FB-4F41-4A91-BB30-AE5628C026CD}|ntp2ka\\ntp2ka.csproj|c:\\users\\lenovo\\source\\repos\\ntp\\ntp2ka\\ntp2ka\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B9CA6FB-4F41-4A91-BB30-AE5628C026CD}|ntp2ka\\ntp2ka.csproj|solutionrelative:ntp2ka\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9CA6FB-4F41-4A91-BB30-AE5628C026CD}|ntp2ka\\ntp2ka.csproj|c:\\users\\lenovo\\source\\repos\\ntp\\ntp2ka\\ntp2ka\\ntp2ka.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B9CA6FB-4F41-4A91-BB30-AE5628C026CD}|ntp2ka\\ntp2ka.csproj|solutionrelative:ntp2ka\\ntp2ka.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ntp2ka",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2ka\\ntp2ka\\ntp2ka.csproj",
+              "RelativeDocumentMoniker": "ntp2ka\\ntp2ka.csproj",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2ka\\ntp2ka\\ntp2ka.csproj",
+              "RelativeToolTip": "ntp2ka\\ntp2ka.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-30T05:21:41.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2ka\\ntp2ka\\Form1.cs",
+              "RelativeDocumentMoniker": "ntp2ka\\Form1.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2ka\\ntp2ka\\Form1.cs",
+              "RelativeToolTip": "ntp2ka\\Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAApwBIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T05:27:22.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cihaz.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2ka\\ntp2ka\\Cihaz.cs",
+              "RelativeDocumentMoniker": "ntp2ka\\Cihaz.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2ka\\ntp2ka\\Cihaz.cs",
+              "RelativeToolTip": "ntp2ka\\Cihaz.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwBQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T05:21:48.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2ka\\ntp2ka\\Form1.cs",
+              "RelativeDocumentMoniker": "ntp2ka\\Form1.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2ka\\ntp2ka\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ntp2ka\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T05:15:34.531Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

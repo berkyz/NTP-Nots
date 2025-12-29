@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\NTP\\Ders11a\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD30E167-C384-4859-8A9B-829E786CC4CF}|Ders11a\\Ders11a.csproj|c:\\users\\lenovo\\source\\repos\\ntp\\ders11a\\ders11a\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD30E167-C384-4859-8A9B-829E786CC4CF}|Ders11a\\Ders11a.csproj|solutionrelative:ders11a\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD30E167-C384-4859-8A9B-829E786CC4CF}|Ders11a\\Ders11a.csproj|c:\\users\\lenovo\\source\\repos\\ntp\\ders11a\\ders11a\\iarac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD30E167-C384-4859-8A9B-829E786CC4CF}|Ders11a\\Ders11a.csproj|solutionrelative:ders11a\\iarac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD30E167-C384-4859-8A9B-829E786CC4CF}|Ders11a\\Ders11a.csproj|c:\\users\\lenovo\\source\\repos\\ntp\\ders11a\\ders11a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD30E167-C384-4859-8A9B-829E786CC4CF}|Ders11a\\Ders11a.csproj|solutionrelative:ders11a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD30E167-C384-4859-8A9B-829E786CC4CF}|Ders11a\\Ders11a.csproj|c:\\users\\lenovo\\source\\repos\\ntp\\ders11a\\ders11a\\geometri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD30E167-C384-4859-8A9B-829E786CC4CF}|Ders11a\\Ders11a.csproj|solutionrelative:ders11a\\geometri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD30E167-C384-4859-8A9B-829E786CC4CF}|Ders11a\\Ders11a.csproj|c:\\users\\lenovo\\source\\repos\\ntp\\ders11a\\ders11a\\viptaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD30E167-C384-4859-8A9B-829E786CC4CF}|Ders11a\\Ders11a.csproj|solutionrelative:ders11a\\viptaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD30E167-C384-4859-8A9B-829E786CC4CF}|Ders11a\\Ders11a.csproj|c:\\users\\lenovo\\source\\repos\\ntp\\ders11a\\ders11a\\taksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD30E167-C384-4859-8A9B-829E786CC4CF}|Ders11a\\Ders11a.csproj|solutionrelative:ders11a\\taksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD30E167-C384-4859-8A9B-829E786CC4CF}|Ders11a\\Ders11a.csproj|c:\\users\\lenovo\\source\\repos\\ntp\\ders11a\\ders11a\\mystring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD30E167-C384-4859-8A9B-829E786CC4CF}|Ders11a\\Ders11a.csproj|solutionrelative:ders11a\\mystring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD30E167-C384-4859-8A9B-829E786CC4CF}|Ders11a\\Ders11a.csproj|c:\\users\\lenovo\\source\\repos\\ntp\\ders11a\\ders11a\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD30E167-C384-4859-8A9B-829E786CC4CF}|Ders11a\\Ders11a.csproj|solutionrelative:ders11a\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD30E167-C384-4859-8A9B-829E786CC4CF}|Ders11a\\Ders11a.csproj|c:\\users\\lenovo\\source\\repos\\ntp\\ders11a\\ders11a\\gelismisgeormetri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD30E167-C384-4859-8A9B-829E786CC4CF}|Ders11a\\Ders11a.csproj|solutionrelative:ders11a\\gelismisgeormetri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IArac.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\NTP\\Ders11a\\Ders11a\\IArac.cs",
+              "RelativeDocumentMoniker": "Ders11a\\IArac.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\NTP\\Ders11a\\Ders11a\\IArac.cs",
+              "RelativeToolTip": "Ders11a\\IArac.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T08:33:36.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyString.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\NTP\\Ders11a\\Ders11a\\MyString.cs",
+              "RelativeDocumentMoniker": "Ders11a\\MyString.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\NTP\\Ders11a\\Ders11a\\MyString.cs",
+              "RelativeToolTip": "Ders11a\\MyString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T07:59:53.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VipTaksi.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\NTP\\Ders11a\\Ders11a\\VipTaksi.cs",
+              "RelativeDocumentMoniker": "Ders11a\\VipTaksi.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\NTP\\Ders11a\\Ders11a\\VipTaksi.cs",
+              "RelativeToolTip": "Ders11a\\VipTaksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T07:50:05.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Global.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\NTP\\Ders11a\\Ders11a\\Global.cs",
+              "RelativeDocumentMoniker": "Ders11a\\Global.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\NTP\\Ders11a\\Ders11a\\Global.cs",
+              "RelativeToolTip": "Ders11a\\Global.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T07:39:42.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GelismisGeormetri.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\NTP\\Ders11a\\Ders11a\\GelismisGeormetri.cs",
+              "RelativeDocumentMoniker": "Ders11a\\GelismisGeormetri.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\NTP\\Ders11a\\Ders11a\\GelismisGeormetri.cs",
+              "RelativeToolTip": "Ders11a\\GelismisGeormetri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T07:34:29.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Geometri.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\NTP\\Ders11a\\Ders11a\\Geometri.cs",
+              "RelativeDocumentMoniker": "Ders11a\\Geometri.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\NTP\\Ders11a\\Ders11a\\Geometri.cs",
+              "RelativeToolTip": "Ders11a\\Geometri.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAlwB0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T07:26:39.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Taksi.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\NTP\\Ders11a\\Ders11a\\Taksi.cs",
+              "RelativeDocumentMoniker": "Ders11a\\Taksi.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\NTP\\Ders11a\\Ders11a\\Taksi.cs",
+              "RelativeToolTip": "Ders11a\\Taksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T05:46:29.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Araba.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\NTP\\Ders11a\\Ders11a\\Araba.cs",
+              "RelativeDocumentMoniker": "Ders11a\\Araba.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\NTP\\Ders11a\\Ders11a\\Araba.cs",
+              "RelativeToolTip": "Ders11a\\Araba.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T05:30:34.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\NTP\\Ders11a\\Ders11a\\Program.cs",
+              "RelativeDocumentMoniker": "Ders11a\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\NTP\\Ders11a\\Ders11a\\Program.cs",
+              "RelativeToolTip": "Ders11a\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwC0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T05:24:47.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

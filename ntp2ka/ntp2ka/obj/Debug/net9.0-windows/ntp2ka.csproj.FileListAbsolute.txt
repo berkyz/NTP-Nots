@@ -1,0 +1,17 @@
+C:\Users\lenovo\source\repos\NTP\ntp2ka\ntp2ka\bin\Debug\net9.0-windows\ntp2ka.exe
+C:\Users\lenovo\source\repos\NTP\ntp2ka\ntp2ka\bin\Debug\net9.0-windows\ntp2ka.deps.json
+C:\Users\lenovo\source\repos\NTP\ntp2ka\ntp2ka\bin\Debug\net9.0-windows\ntp2ka.runtimeconfig.json
+C:\Users\lenovo\source\repos\NTP\ntp2ka\ntp2ka\bin\Debug\net9.0-windows\ntp2ka.dll
+C:\Users\lenovo\source\repos\NTP\ntp2ka\ntp2ka\bin\Debug\net9.0-windows\ntp2ka.pdb
+C:\Users\lenovo\source\repos\NTP\ntp2ka\ntp2ka\obj\Debug\net9.0-windows\ntp2ka.Form1.resources
+C:\Users\lenovo\source\repos\NTP\ntp2ka\ntp2ka\obj\Debug\net9.0-windows\ntp2ka.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\NTP\ntp2ka\ntp2ka\obj\Debug\net9.0-windows\ntp2ka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\NTP\ntp2ka\ntp2ka\obj\Debug\net9.0-windows\ntp2ka.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\NTP\ntp2ka\ntp2ka\obj\Debug\net9.0-windows\ntp2ka.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\NTP\ntp2ka\ntp2ka\obj\Debug\net9.0-windows\ntp2ka.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\NTP\ntp2ka\ntp2ka\obj\Debug\net9.0-windows\ntp2ka.dll
+C:\Users\lenovo\source\repos\NTP\ntp2ka\ntp2ka\obj\Debug\net9.0-windows\refint\ntp2ka.dll
+C:\Users\lenovo\source\repos\NTP\ntp2ka\ntp2ka\obj\Debug\net9.0-windows\ntp2ka.pdb
+C:\Users\lenovo\source\repos\NTP\ntp2ka\ntp2ka\obj\Debug\net9.0-windows\ntp2ka.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\NTP\ntp2ka\ntp2ka\obj\Debug\net9.0-windows\ref\ntp2ka.dll
+C:\Users\lenovo\source\repos\NTP\ntp2ka\ntp2ka\obj\Debug\net9.0-windows\ntp2ka.Properties.Resources.resources

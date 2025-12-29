@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ntp2m1/1.0.0": {
+        "runtime": {
+          "ntp2m1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ntp2m1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

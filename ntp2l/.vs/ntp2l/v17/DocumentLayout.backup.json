@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2l\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A52E9CD-F42D-4232-A68D-9D0ACC859612}|ntp2l\\ntp2l.csproj|c:\\users\\lenovo\\source\\repos\\ntp\\ntp2l\\ntp2l\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A52E9CD-F42D-4232-A68D-9D0ACC859612}|ntp2l\\ntp2l.csproj|solutionrelative:ntp2l\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A52E9CD-F42D-4232-A68D-9D0ACC859612}|ntp2l\\ntp2l.csproj|c:\\users\\lenovo\\source\\repos\\ntp\\ntp2l\\ntp2l\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A52E9CD-F42D-4232-A68D-9D0ACC859612}|ntp2l\\ntp2l.csproj|solutionrelative:ntp2l\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Urun.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2l\\ntp2l\\Urun.cs",
+              "RelativeDocumentMoniker": "ntp2l\\Urun.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2l\\ntp2l\\Urun.cs",
+              "RelativeToolTip": "ntp2l\\Urun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T12:34:07.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2l\\ntp2l\\Program.cs",
+              "RelativeDocumentMoniker": "ntp2l\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\NTP\\ntp2l\\ntp2l\\Program.cs",
+              "RelativeToolTip": "ntp2l\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T12:33:57.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\NTP\\Ders03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5141FA3-989C-4D27-BCE8-BDE5E5717F4B}|Ders03\\Ders03.csproj|c:\\users\\lenovo\\source\\repos\\ntp\\ders03\\ders03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5141FA3-989C-4D27-BCE8-BDE5E5717F4B}|Ders03\\Ders03.csproj|solutionrelative:ders03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\NTP\\Ders03\\Ders03\\Program.cs",
+              "RelativeDocumentMoniker": "Ders03\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\NTP\\Ders03\\Ders03\\Program.cs",
+              "RelativeToolTip": "Ders03\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA8wAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:13:23.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
