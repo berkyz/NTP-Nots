@@ -1,0 +1,17 @@
+C:\Users\lenovo\source\repos\NTP\Win3\Win3\bin\Debug\net10.0-windows\Win3.exe
+C:\Users\lenovo\source\repos\NTP\Win3\Win3\bin\Debug\net10.0-windows\Win3.deps.json
+C:\Users\lenovo\source\repos\NTP\Win3\Win3\bin\Debug\net10.0-windows\Win3.runtimeconfig.json
+C:\Users\lenovo\source\repos\NTP\Win3\Win3\bin\Debug\net10.0-windows\Win3.dll
+C:\Users\lenovo\source\repos\NTP\Win3\Win3\bin\Debug\net10.0-windows\Win3.pdb
+C:\Users\lenovo\source\repos\NTP\Win3\Win3\obj\Debug\net10.0-windows\Win3.Form1.resources
+C:\Users\lenovo\source\repos\NTP\Win3\Win3\obj\Debug\net10.0-windows\Win3.Properties.Resources.resources
+C:\Users\lenovo\source\repos\NTP\Win3\Win3\obj\Debug\net10.0-windows\Win3.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\NTP\Win3\Win3\obj\Debug\net10.0-windows\Win3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\NTP\Win3\Win3\obj\Debug\net10.0-windows\Win3.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\NTP\Win3\Win3\obj\Debug\net10.0-windows\Win3.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\NTP\Win3\Win3\obj\Debug\net10.0-windows\Win3.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\NTP\Win3\Win3\obj\Debug\net10.0-windows\Win3.dll
+C:\Users\lenovo\source\repos\NTP\Win3\Win3\obj\Debug\net10.0-windows\refint\Win3.dll
+C:\Users\lenovo\source\repos\NTP\Win3\Win3\obj\Debug\net10.0-windows\Win3.pdb
+C:\Users\lenovo\source\repos\NTP\Win3\Win3\obj\Debug\net10.0-windows\Win3.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\NTP\Win3\Win3\obj\Debug\net10.0-windows\ref\Win3.dll

@@ -1,0 +1,17 @@
+C:\Users\lenovo\source\repos\NTP\Win2\Win2\bin\Debug\net9.0-windows\Win2.exe
+C:\Users\lenovo\source\repos\NTP\Win2\Win2\bin\Debug\net9.0-windows\Win2.deps.json
+C:\Users\lenovo\source\repos\NTP\Win2\Win2\bin\Debug\net9.0-windows\Win2.runtimeconfig.json
+C:\Users\lenovo\source\repos\NTP\Win2\Win2\bin\Debug\net9.0-windows\Win2.dll
+C:\Users\lenovo\source\repos\NTP\Win2\Win2\bin\Debug\net9.0-windows\Win2.pdb
+C:\Users\lenovo\source\repos\NTP\Win2\Win2\obj\Debug\net9.0-windows\Win2.Form1.resources
+C:\Users\lenovo\source\repos\NTP\Win2\Win2\obj\Debug\net9.0-windows\Win2.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\NTP\Win2\Win2\obj\Debug\net9.0-windows\Win2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\NTP\Win2\Win2\obj\Debug\net9.0-windows\Win2.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\NTP\Win2\Win2\obj\Debug\net9.0-windows\Win2.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\NTP\Win2\Win2\obj\Debug\net9.0-windows\Win2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\NTP\Win2\Win2\obj\Debug\net9.0-windows\Win2.dll
+C:\Users\lenovo\source\repos\NTP\Win2\Win2\obj\Debug\net9.0-windows\refint\Win2.dll
+C:\Users\lenovo\source\repos\NTP\Win2\Win2\obj\Debug\net9.0-windows\Win2.pdb
+C:\Users\lenovo\source\repos\NTP\Win2\Win2\obj\Debug\net9.0-windows\Win2.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\NTP\Win2\Win2\obj\Debug\net9.0-windows\ref\Win2.dll
+C:\Users\lenovo\source\repos\NTP\Win2\Win2\obj\Debug\net9.0-windows\Win2.Properties.Resources.resources
