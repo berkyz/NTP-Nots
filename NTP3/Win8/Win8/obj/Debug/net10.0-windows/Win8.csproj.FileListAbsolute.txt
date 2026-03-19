@@ -1,0 +1,16 @@
+C:\Users\lenovo\source\repos\NTP\Win8\Win8\bin\Debug\net10.0-windows\Win8.exe
+C:\Users\lenovo\source\repos\NTP\Win8\Win8\bin\Debug\net10.0-windows\Win8.deps.json
+C:\Users\lenovo\source\repos\NTP\Win8\Win8\bin\Debug\net10.0-windows\Win8.runtimeconfig.json
+C:\Users\lenovo\source\repos\NTP\Win8\Win8\bin\Debug\net10.0-windows\Win8.dll
+C:\Users\lenovo\source\repos\NTP\Win8\Win8\bin\Debug\net10.0-windows\Win8.pdb
+C:\Users\lenovo\source\repos\NTP\Win8\Win8\obj\Debug\net10.0-windows\Win8.Form1.resources
+C:\Users\lenovo\source\repos\NTP\Win8\Win8\obj\Debug\net10.0-windows\Win8.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\NTP\Win8\Win8\obj\Debug\net10.0-windows\Win8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\NTP\Win8\Win8\obj\Debug\net10.0-windows\Win8.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\NTP\Win8\Win8\obj\Debug\net10.0-windows\Win8.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\NTP\Win8\Win8\obj\Debug\net10.0-windows\Win8.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\NTP\Win8\Win8\obj\Debug\net10.0-windows\Win8.dll
+C:\Users\lenovo\source\repos\NTP\Win8\Win8\obj\Debug\net10.0-windows\refint\Win8.dll
+C:\Users\lenovo\source\repos\NTP\Win8\Win8\obj\Debug\net10.0-windows\Win8.pdb
+C:\Users\lenovo\source\repos\NTP\Win8\Win8\obj\Debug\net10.0-windows\Win8.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\NTP\Win8\Win8\obj\Debug\net10.0-windows\ref\Win8.dll
